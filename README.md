@@ -47,8 +47,8 @@ src/
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/library-management.git
-cd library-management
+git clone https://github.com/MdAfsarHossain/Library-Management-System-Frontend
+cd library-management-system-client
 ```
 
 2. **Install dependencies**
